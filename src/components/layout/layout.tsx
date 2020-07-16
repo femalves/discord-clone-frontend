@@ -8,6 +8,7 @@ import ChannelInfo from "../ChannelInfo/channelInfo";
 import Channellist from "../ChannelList/channellist";
 import UserInfo from "../UserInfo/userInfo";
 import UserList from "../UserList/userlist";
+import ChannelData from "../ChannelData/channeldata";
 const Layout: React.FC = () => {
   return (
     <Grid>
@@ -16,7 +17,7 @@ const Layout: React.FC = () => {
       <ChannelInfo />
       <Channellist />
       <UserInfo />
-      <div />
+      <ChannelData />
       <UserList />
     </Grid>
   );
