@@ -16,7 +16,7 @@
 ___
 <br>
 
-![discord-clone](https://user-images.githubusercontent.com/9547354/89563302-9ed3eb00-d7f1-11ea-8a76-50d67ed20d6e.gif)
+![discord-clone](https://github.com/femalves/discord-clone-frontend/blob/master/src/assets/discord-clone.gif)
 
 ## :japanese_ogre: Demo Web
 
