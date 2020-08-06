@@ -9,6 +9,7 @@ export const Container = styled.div`
 
   background-color: var(--primary);
 `;
+
 export const Messages = styled.div`
   padding: 20px 0;
   display: flex;
@@ -41,7 +42,7 @@ export const Input = styled.input`
   color: var(--white);
   font-size: 16px;
   background-color: var(--chat-input);
-
+  align-items: center;
   position: relative;
   &::placeholder {
     color: var(--gray);
@@ -55,7 +56,7 @@ export const Input = styled.input`
   }
 `;
 export const InputIcon = styled(AlternateEmail)`
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   color: var(--gray);
 `;
